@@ -1,3 +1,7 @@
+# https://github.com/aanya-rastogi/Lab11-AR-TS
+# Partner 1: Aanya Rastogi
+# Partner 2: Tobin Swiger
+
 import math
 """
 calculator.py
