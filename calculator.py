@@ -12,6 +12,25 @@ def add(a, b):
 
 def sub(a, b):
     return a - b
+    return a + b
+
+def subtract(a,b):
+    return a - b
+
+def multiply(a, b):
+    return a * b
+
+def logarithm(a, b):
+    try:
+        return math.log(b,a)
+    except ValueError:
+        raise ValueError
+
+def exponent(a,b):
+    return a**b
+
+
+
 
 def mul(a, b):
     return a * b
